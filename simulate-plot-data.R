@@ -5,7 +5,7 @@
 
 # Simulate data from normal distribution
 X <- rnorm(n= 100)
-y <- 3 * X + rnorm(n = 100, sd =0.2)
+y <- 3 * X + rnorm(n = 100, sd =0.5)
 
 # Plot simulated data
 plot(x = X, y = y, main = "Simulated Data")
