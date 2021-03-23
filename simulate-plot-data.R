@@ -4,7 +4,7 @@
 # 2021-03-23
 
 # Simulate data from normal distribution
-X <- rnorm(n= 100)
+X <- rnorm(n= 100, mean=5)
 y <- 3 * X + rnorm(n = 100, sd =0.2)
 
 # Plot simulated data
