@@ -1,6 +1,6 @@
 # Simulate and plot data
 # Torbet McNeil 
-# tmcneil@email.arizona.edu
+# tmcneil@arizona.edu
 # 2021-03-23
 
 # Simulate data from normal distribution
